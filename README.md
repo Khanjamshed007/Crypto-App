@@ -1,3 +1,32 @@
+Hosted Link : https://crypto-app-wheat.vercel.app/
+
+# Home Page
+
+![Screenshot (56)](https://github.com/Khanjamshed007/Crypto-App/assets/94047780/86cccfd3-a12e-4713-a357-cc59bd2993d8)
+
+# Exchange coins page
+![Screenshot (57)](https://github.com/Khanjamshed007/Crypto-App/assets/94047780/ddeaf6d1-d5bc-4214-ae63-45f0326972c2)
+
+# Coins page
+![Screenshot (58)](https://github.com/Khanjamshed007/Crypto-App/assets/94047780/25d49c0c-03e5-48a4-b541-ac37e9d6bcf1)
+
+# Coins Details page
+![Screenshot (59)](https://github.com/Khanjamshed007/Crypto-App/assets/94047780/79a07c87-0292-4eb9-895b-4a7e5e015952)
+
+# Footer
+![Screenshot (60)](https://github.com/Khanjamshed007/Crypto-App/assets/94047780/815e49c8-f1d7-48a6-8831-ec762c037938)
+
+
+# Some Details
+As we now you see the images of app now you know that in this we have some extra features
+
+1.We have animated home page
+2.You can see the coins details and also you can see in chart form
+3.we have button multiple buttons for days so if you click on buttons then you will see the data from present day to that days button you click.
+
+# Api Use
+I am using coingecko api to use this type of data.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
