@@ -1,3 +1,13 @@
+
+# Functionality:
+1.You can view all the cryptocurrency details in this app.
+
+2.There are three navbar options in this: home, exchange, and coins.
+
+3.If you click on a coin on the coin page, a page with its details and a number of buttons to view the chart's details by number of days opens.
+
+4.This website is easy to use; you may view the most recent coin prices with a variety of functionalities and view all of the information on a chart.
+
 Hosted Link : https://crypto-app-wheat.vercel.app/
 
 # Home Page
